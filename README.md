@@ -1,4 +1,4 @@
-# 🛠️ Desafio Técnico - Sistema de Funcionários (GestorUsuários)
+# 🛠️ Desafio Técnico - Sistema de Funcionários (GestorFuncionarios)
 
 Este é um projeto desenvolvido como parte de um desafio técnico. A aplicação consiste em um sistema de gerenciamento de funcionários com funcionalidades de cadastro, listagem, edição e exclusão.
 
